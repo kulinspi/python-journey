@@ -10,4 +10,4 @@ class TestClass():
 
 
 
-zmienna = TestClass(10,20)
+zmienna = TestClass(30,20)
